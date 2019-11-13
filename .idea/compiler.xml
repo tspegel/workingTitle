@@ -6,14 +6,15 @@
         <sourceOutputDir name="target/generated-sources/annotations" />
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
+        <module name="db" />
         <module name="authentication" />
-        <module name="backend" />
         <module name="portal" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
       <module name="authentication" target="1.5" />
       <module name="backend" target="1.5" />
+      <module name="db" target="1.5" />
       <module name="portal" target="1.5" />
     </bytecodeTargetLevel>
   </component>
