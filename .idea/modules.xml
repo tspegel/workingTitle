@@ -4,7 +4,7 @@
     <modules>
       <module fileurl="file://$PROJECT_DIR$/authentication/authentication.iml" filepath="$PROJECT_DIR$/authentication/authentication.iml" />
       <module fileurl="file://$PROJECT_DIR$/backend/backend.iml" filepath="$PROJECT_DIR$/backend/backend.iml" />
-      <module fileurl="file://$PROJECT_DIR$/backend/db/db.iml" filepath="$PROJECT_DIR$/backend/db/db.iml" />
+      <module fileurl="file://$PROJECT_DIR$/backend/database/database.iml" filepath="$PROJECT_DIR$/backend/database/database.iml" />
       <module fileurl="file://$PROJECT_DIR$/portal/portal.iml" filepath="$PROJECT_DIR$/portal/portal.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/workingTitle.iml" filepath="$PROJECT_DIR$/.idea/workingTitle.iml" />
     </modules>
